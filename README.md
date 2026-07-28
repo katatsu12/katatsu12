@@ -32,54 +32,25 @@
 
 ## 🚀 Featured projects
 
-<p align="center">
-  <a href="https://github.com/katatsu12/journey_route">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=katatsu12&repo=journey_route&theme=tokyonight&hide_border=true">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=katatsu12&repo=journey_route&hide_border=true" alt="journey_route — a Rails app to track daily sports activities and fitness goals" />
-    </picture>
-  </a>
-  <a href="https://github.com/katatsu12/view_component">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=katatsu12&repo=view_component&theme=tokyonight&hide_border=true">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=katatsu12&repo=view_component&hide_border=true" alt="view_component — experimenting with a novel way of building Rails views" />
-    </picture>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/katatsu12/shopify_app">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=katatsu12&repo=shopify_app&theme=tokyonight&hide_border=true">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=katatsu12&repo=shopify_app&hide_border=true" alt="shopify_app — a Shopify app built with Ruby on Rails" />
-    </picture>
-  </a>
-  <a href="https://github.com/katatsu12/votes">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=katatsu12&repo=votes&theme=tokyonight&hide_border=true">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=katatsu12&repo=votes&hide_border=true" alt="votes — a voting app built with Svelte" />
-    </picture>
-  </a>
-</p>
+| Project | What it is | Built with |
+| :--- | :--- | :--- |
+| **[journey_route](https://github.com/katatsu12/journey_route)** | Web app for tracking daily sports activities — set fitness goals, track progress, monitor your activity | Ruby on Rails |
+| **[view_component](https://github.com/katatsu12/view_component)** | Experimenting with a component-based approach to building Rails views | Rails · ViewComponent |
+| **[shopify_app](https://github.com/katatsu12/shopify_app)** | A Shopify app built on Rails | Rails · Shopify |
+| **[votes](https://github.com/katatsu12/votes)** | A little voting app | Svelte |
+| **[ssh_switch](https://github.com/katatsu12/ssh_switch)** | Tiny shell helper for quick SSH config switching | Shell |
 
 ## 📊 GitHub stats
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=katatsu12&show_icons=true&theme=tokyonight&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=katatsu12&show_icons=true&hide_border=true" alt="Den's GitHub stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=katatsu12&layout=compact&langs_count=8&theme=tokyonight&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katatsu12&layout=compact&langs_count=8&hide_border=true" alt="Most used languages" />
-  </picture>
-</p>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=katatsu12&theme=tokyonight&hide_border=true">
     <img src="https://streak-stats.demolab.com?user=katatsu12&hide_border=true" alt="GitHub contribution streak" />
   </picture>
+</p>
+
+<p align="center">
+  <a href="https://github.com/katatsu12"><img src="https://ghchart.rshah.org/katatsu12" alt="Den's GitHub contribution calendar" /></a>
 </p>
 
 ---
