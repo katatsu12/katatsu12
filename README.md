@@ -39,10 +39,6 @@
   </picture>
 </p>
 
-<p align="center">
-  <a href="https://github.com/katatsu12"><img src="https://ghchart.rshah.org/katatsu12" alt="Den's GitHub contribution calendar" /></a>
-</p>
-
 ---
 
 <p align="center"><i>Thanks for stopping by — my inbox is always open ✌️</i></p>
