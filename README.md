@@ -27,7 +27,7 @@
 ## 🛠️ Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ruby,rails,postgres,redis,js,ts,svelte,html,sass,python,docker,git,githubactions,heroku,bash&perline=8" alt="Ruby · Rails · PostgreSQL · Redis · JavaScript · TypeScript · Svelte · HTML · Sass · Python · Docker · Git · GitHub Actions · Heroku · Bash" />
+  <img src="https://skillicons.dev/icons?i=ruby,rails,postgres,redis,js,ts,svelte,html,sass,python,docker,git,githubactions,heroku,bash,aws&perline=8" alt="Ruby · Rails · PostgreSQL · Redis · JavaScript · TypeScript · Svelte · HTML · Sass · Python · Docker · Git · GitHub Actions · Heroku · Bash · AWS" />
 </p>
 
 ## 📊 GitHub stats
